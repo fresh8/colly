@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/gocolly/colly/v2"
+	"github.com/fresh8/colly"
 )
 
 func generateFormData() map[string][]byte {
